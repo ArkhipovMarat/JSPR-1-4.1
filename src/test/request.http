@@ -1,8 +1,8 @@
-GET http://localhost:8181/api/posts
+GET http://localhost:8181/3_war/api/posts
 
 ###
 
-POST http://localhost:8181/api/posts
+POST http://localhost:8181/3_war/api/posts
 Content-Type: application/json
 
 {
@@ -12,9 +12,9 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:8181/api/posts/2
+DELETE http://localhost:8181/3_war/api/posts/2
 
 ###
 
-GET http://localhost:8181/api/posts/2
+GET http://localhost:8181/3_war/api/posts/2
 

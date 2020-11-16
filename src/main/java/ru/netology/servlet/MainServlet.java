@@ -12,7 +12,7 @@ public class MainServlet extends HttpServlet {
   private final String GET = "GET";
   private final String POST = "POST";
   private final String DELETE = "DELETE";
-  private final String validPATH = "/api/posts";
+  private final String validPATH = "/3_war/api/posts";
 
   private PostController controller;
 
